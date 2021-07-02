@@ -1,13 +1,13 @@
 # code3
  scrapper
 
-## • API Setup
+## â€¢ API Setup
 * Go to http://my.telegram.org  and log in.
 * Click on API development tools and fill the required fields.
 * put app name you want & select other in platform Example :
 * copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
 
-## • How To Install and Use In App
+## â€¢ How To Install and Use In App
 
 `$ pkg up -y`
 
@@ -19,11 +19,11 @@
 
 `$ python setup.py`
 
-* To Scare members from group.
+* To Scrap members from group.
 
 `$ python scraper.py`
 
-* Add Scarped members to your group. 
+* Add Scraped members to your group. 
 
 `$ python adder.py`
 
